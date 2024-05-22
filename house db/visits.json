@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "66479fbdaed4cf1149ea8963"
+  },
+  "email": "prathameshchaudhary01@gmail.com",
+  "order_data": [
+    [
+      {
+        "order_date": "Fri May 17 2024"
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2ee",
+        "name": "1BHK",
+        "qty": 1,
+        "size": "PriceSQft",
+        "price": 1500
+      }
+    ],
+    [
+      {
+        "order_date": "Fri May 17 2024"
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2ee",
+        "name": "1BHK",
+        "qty": 1,
+        "size": "PriceSQft",
+        "price": 1500
+      }
+    ],
+    [
+      {
+        "order_date": "Sat May 18 2024"
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2ef",
+        "name": "2BHK",
+        "qty": 1,
+        "size": "PriceSQft",
+        "price": 1500
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2f2",
+        "name": "5BHK",
+        "qty": 1,
+        "size": "PriceSQFT",
+        "price": 1500
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2f8",
+        "name": "Central Park",
+        "qty": 1,
+        "size": "PriceSQFT",
+        "price": 1800
+      }
+    ]
+  ],
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647a2f8aed4cf1149ea896f"
+  },
+  "email": "np588375@gmail.com",
+  "order_data": [
+    [
+      {
+        "order_date": "Sat May 18 2024"
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2ef",
+        "name": "2BHK",
+        "qty": 1,
+        "size": "PriceSQft",
+        "price": 1500
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2f1",
+        "name": "4BHK",
+        "qty": 1,
+        "size": "PriceSQFT",
+        "price": 1500
+      },
+      {
+        "id": "65a8c0b4eb70031ac7d4d2f1",
+        "name": "4BHK",
+        "qty": 1,
+        "size": "Annual",
+        "price": 3500000
+      }
+    ]
+  ],
+  "__v": 0
+}]

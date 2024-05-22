@@ -1,0 +1,20 @@
+[
+  {
+    "_id": {
+      "$oid": "65a8c091eb70031ac7d4d2ea"
+    },
+    "CategoryName": "Flat"
+  },
+  {
+    "_id": {
+      "$oid": "65a8c091eb70031ac7d4d2ec"
+    },
+    "CategoryName": "Row House"
+  },
+  {
+    "_id": {
+      "$oid": "65a8c091eb70031ac7d4d2ee"
+    },
+    "CategoryName": "Bungalows"
+  }
+]

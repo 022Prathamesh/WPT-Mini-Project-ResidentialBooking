@@ -1,0 +1,28 @@
+[{
+  "_id": {
+    "$oid": "66472f8e1096aba5e830b9dd"
+  },
+  "name": "Prathamesh Manohar Chaudhari",
+  "location": "Krishna Residency",
+  "email": "prathameshchaudhary01@gmail.com",
+  "password": "$2a$10$bzxVe0DJSa66iqJKU13.deg6HFwFp9qLsL3GBSR6sHtuMB7SbQswu",
+  "address": "Krishna Residency",
+  "date": {
+    "$date": "2024-05-17T10:21:02.327Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6647a26baed4cf1149ea896b"
+  },
+  "name": "Nikhil patel",
+  "location": "Krishna Residenc",
+  "email": "np588375@gmail.com",
+  "password": "$2a$10$ZDeaCKPIDdjMwFjyCBA44.SK7Hy7MFJ3WXrQozCwnVR6n2hl6nWg2",
+  "address": "Krishna Residenc",
+  "date": {
+    "$date": "2024-05-17T18:31:07.420Z"
+  },
+  "__v": 0
+}]
